@@ -1,0 +1,42 @@
+body
+{
+    font-size: 16px;
+    margin: 0px;
+    padding: 0px;
+    font-family: Helvetica;
+    text-align: center;
+    background-color: #222;
+    margin-top: 20px;
+}
+
+h2
+{
+	color: #FFF;
+}
+
+iframe
+{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+video
+{
+	width: 100px;
+}
+
+#canvas
+{
+	margin-top: 50px;
+	background-color: #000;
+	-webkit-user-select: none;
+}
+
+#canvas2,
+img,
+video,
+button
+{
+	display: none;
+}
